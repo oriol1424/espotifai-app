@@ -40,6 +40,6 @@ The project was developed using a Layered Architecture, with Presentation, Busin
 
 [Joaquim Balletbo] (https://github.com/QuimBalletbo)
 
-[Oriol Centeno] 
+[Oriol Centeno] (https://github.com/oriol1424)
 
 [Adria Estevam]
